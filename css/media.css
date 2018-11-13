@@ -1,0 +1,333 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+	/* Header Start */
+	header {
+		margin-top: 10px;
+	}
+	.custom_brand {
+		font-size: 25px;
+	}
+	.custom_nav a {
+		padding: 0px!important;
+	}
+	/* Header End */
+	/* Banner Start */
+	.banner {
+		margin-top: 10px;
+	}
+	/* Banner End */
+	/* Intro Section Start */
+	.intro {
+		margin-top: 30px;
+	}
+	.common_texts {
+		font-size: 8px;
+	}
+	.intro_texts h1 {
+		font-size: 18px;
+	}
+	.intro_texts p {
+		margin-top: 15px;
+		font-size: 8px;
+	}
+	/* Intro Section End */
+		/* Service Section Start */
+	.service {
+		margin-top: 0;
+		margin-bottom: 40px;
+	}
+	.service_content {
+		margin-top: 40px;
+	}
+	.service_content h1 {
+		font-size: 18px;
+	}
+	.service_content p {
+		font-size: 12px;
+		margin-top: 10px;
+	}
+	.load_btn {
+		margin-top: 50px;
+		margin-bottom: 60px;
+	}
+	.load_btn button {
+		font-size: 11px;
+		padding: 10px 20px;
+		border: 1px solid #626262;
+	}
+	.load_btn button:hover {
+		border: 1px solid #ddd;
+	}
+	/* Service Section End */
+	/* Newsletter Start */
+	.newsletter h1 {
+		font-size: 18px;
+		margin-top: 30px;
+	}
+	.newsletter_form {
+		margin: 30px auto;
+	}
+	.custom_form {
+	    font-size: 12px;
+	}
+	/* Newsletter End */
+	/* Footer Section Start */
+	footer p {
+		margin: 20px auto;
+	}
+	footer p a {
+		font-size: 10px;
+	}
+	footer p a i {
+		font-size: 10px;
+	}
+	/* Footer Section End */
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/* Header Start */
+	header {
+		margin-top: 20px;
+	}
+	.custom_nav a {
+		padding: 0px!important;
+	}
+	/* Header End */
+	/* Banner Start */
+	.banner {
+		margin-top: 20px;
+	}
+	/* Banner End */
+	/* Intro Section Start */
+	.intro {
+		margin-top: 40px;
+	}
+	.common_texts {
+		font-size: 11px;
+	}
+	.intro_texts h1 {
+		font-size: 16px;
+	}
+	.intro_texts p {
+		margin-top: 20px;
+		font-size: 11px;
+	}
+	/* Intro Section End */
+	/* Service Section Start */
+	.service {
+		margin-top: 10px;
+		margin-bottom: 50px;
+	}
+	.service_content {
+		margin-top: 30px;
+	}
+	.service_content h1 {
+		font-size: 16px;
+	}
+	.service_content p {
+		font-size: 11px;
+		margin-top: 10px;
+	}
+	.load_btn {
+		margin-top: 60px;
+		margin-bottom: 80px;
+	}
+	.load_btn button {
+		font-size: 11px;
+		padding: 10px 20px;
+		border: 1px solid #626262;
+	}
+	.load_btn button:hover {
+		border: 1px solid #ddd;
+	}
+	/* Service Section End */
+		/* Newsletter Start */
+	.newsletter h1 {
+		font-size: 18px;
+		margin-top: 40px;
+	}
+	.newsletter_form {
+		margin: 40px auto;
+	}
+	.custom_form {
+	    font-size: 12px;
+	}
+	/* Newsletter End */
+	/* Footer Section Start */
+	footer p {
+		margin: 30px auto;
+	}
+	footer p a {
+		font-size: 12px;
+	}
+	footer p a i {
+		font-size: 12px;
+	}
+	/* Footer Section End */
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/* Header Start */
+	header {
+		margin-top: 20px;
+	}
+	.custom_nav a {
+		padding: 0 20px!important;
+		font-size: 13px;
+	}
+	/* Header End */
+	/* Banner Start */
+	.banner {
+		margin-top: 30px;
+	}
+	/* Banner End */
+	/* Intro Section Start */
+	.intro {
+		margin-top: 50px;
+	}
+	.common_texts {
+		font-size: 11px;
+	}
+	.intro_texts h1 {
+		font-size: 18px;
+	}
+	.intro_texts p {
+		margin-top: 30px;
+		font-size: 11px;
+	}
+	/* Intro Section End */
+	/* Service Section Start */
+	.service {
+		margin-top: 15px;
+		margin-bottom: 80px;
+	}
+	.service_content {
+		margin-top: 60px;
+	}
+	.service_content h1 {
+		font-size: 18px;
+	}
+	.service_content p {
+		font-size: 11px;
+		margin-top: 15px;
+	}
+	.load_btn {
+		margin-top: 100px;
+		margin-bottom: 150px;
+	}
+	.load_btn button {
+		font-size: 12px;
+		padding: 12px 25px;
+		border: 1px solid #626262;
+	}
+	.load_btn button:hover {
+		border: 1px solid #ddd;
+	}
+	/* Service Section End */
+	/* Newsletter Start */
+	.newsletter h1 {
+		font-size: 20px;
+		margin-top: 50px;
+	}
+	.newsletter_form {
+		margin: 50px auto;
+	}
+	.custom_form {
+	    font-size: 12px;
+	}
+	/* Newsletter End */
+	/* Footer Section Start */
+	footer p {
+		margin: 30px auto;
+	}
+	footer p a {
+		font-size: 12px;
+	}
+	footer p a i {
+		font-size: 12px;
+	}
+	/* Footer Section End */
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	/* Header Start */
+	.custom_nav a {
+		padding: 0 40px!important;
+	}
+	/* Header End */
+	/* Banner Start */
+	.banner {
+		margin-top: 50px;
+	}
+	/* Banner End */
+	/* Intro Section Start */
+	.intro {
+		margin-top: 60px;
+	}
+	.common_texts {
+		font-family: 'Ubuntu', sans-serif;
+		font-size: 13px;
+	}
+	.intro_texts h1 {
+		font-size: 25px;
+	}
+	.intro_texts p {
+		margin-top: 30px;
+		font-size: 13px;
+	}
+	/* Intro Section End */
+	/* Service Section Start */
+	.service {
+		margin-top: 20px;
+		margin-bottom: 100px;
+	}
+	.service_content {
+		margin-top: 90px;
+	}
+	.service_content h1 {
+		font-size: 25px;
+	}
+	.service_content p {
+		font-size: 13px;
+		margin-top: 25px;
+	}
+	.load_btn {
+		margin-top: 120px;
+		margin-bottom: 200px;
+	}
+	.load_btn button {
+		font-size: 18px;
+		padding: 16px 30px;
+	}
+	/* Service Section End */
+	/* Newsletter Start */
+	.newsletter h1 {
+		font-size: 25px;
+		margin-top: 60px;
+	}
+	.newsletter_form {
+		margin: 60px auto;
+	}
+	.custom_form {
+	    font-size: 13px;
+	}
+	/* Newsletter End */
+	/* Footer Section Start */
+	footer p {
+		margin: 35px auto;
+	}
+	footer p a {
+		font-size: 13px;
+	}
+	footer p a i {
+		font-size: 15px;
+	}
+	/* Footer Section End */
+}
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+}

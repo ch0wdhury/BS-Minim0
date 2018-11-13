@@ -1,0 +1,149 @@
+font-family: 'Inconsolata', monospace;
+font-family: 'Playfair Display', serif;
+font-family: 'Ubuntu', sans-serif;
+
+html, body {
+	overflow-x: hidden;
+}
+body {
+	font-family: 'Playfair Display', serif;
+	color: #626262;
+}
+
+/* Header Start */
+header {
+	margin-top: 50px;
+}
+.custom_brand {
+	font-family: 'Inconsolata', monospace;
+	font-size: 30px;
+}
+.custom_nav a {
+	padding: 0 60px!important;
+	font-size: 14px;
+	transition: .5s ease;
+}
+.custom_nav li:last-child a {
+	padding-right: 0px!important;
+}
+.custom_nav a:hover {
+	text-decoration: underline;
+	color: #ddd;
+}
+/* Header End */
+/* Banner Start */
+.banner {
+	margin-top: 80px;
+}
+.banner_content img {
+	width: 97%;
+}
+/* Banner End */
+/* Intro Section Start */
+.intro {
+	margin-top: 80px;
+}
+.common_texts {
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 14px;
+	font-weight: 300;
+	color: #B4AD9E;
+}
+.intro_texts h1 {
+	font-size: 30px;
+}
+.intro_texts p {
+	margin-top: 35px;
+	font-size: 14px;
+}
+/* Intro Section End */
+/* Service Section Start */
+.service {
+	margin-top: 20px;
+	margin-bottom: 120px;
+}
+.service_content {
+	margin-top: 100px;
+}
+.service_content img {
+	width: 100%;
+}
+.service_content h1 {
+	font-size: 30px;
+}
+.service_content p {
+	font-size: 14px;
+	margin-top: 25px;
+}
+.load_btn {
+	margin-top: 150px;
+	margin-bottom: 250px;
+}
+.load_btn button {
+	font-size: 20px;
+	padding: 20px 35px;
+	background: transparent;
+	border: 2px solid #626262;
+	transition: 0.5s ease;
+}
+.load_btn button:hover {
+	border: 2px solid #ddd;
+	color: #fff;
+	background-color: #626262;
+}
+/* Service Section End */
+/* Newsletter Start */
+.newsletter {
+	background-color: #F0F0F0;
+}
+.newsletter h1 {
+	font-size: 30px;
+	margin-top: 70px;
+}
+.newsletter_form {
+	border-bottom: 1px solid black;
+	margin: 70px auto;
+}
+.form_wrapper {
+	position: relative;
+}
+.custom_form {
+    display: block;
+    width: 100%;
+    font-size: 14px;
+    line-height: 2.0;
+    background: transparent;
+    padding: 0;
+    outline: none;
+    border: none;
+}
+.sndbtn {
+    background: transparent;
+    padding: 0;
+    outline: none;
+    border: none;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+/* Newsletter End */
+/* Footer Section Start */
+footer {
+	background-color: #F0F0F0;
+}
+footer p {
+	margin: 40px auto;
+}
+footer p a {
+	text-decoration: none;
+	font-size: 14px;
+	color: #626262;
+}
+footer p a:hover {
+	text-decoration: underline;
+	color: #000;
+}
+footer p a i {
+	font-size: 16px;
+}
+/* Footer Section End */
