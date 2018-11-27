@@ -21,14 +21,14 @@
 		margin-top: 30px;
 	}
 	.common_texts {
-		font-size: 8px;
+		font-size: 14px;
 	}
 	.intro_texts h1 {
 		font-size: 18px;
 	}
 	.intro_texts p {
 		margin-top: 15px;
-		font-size: 8px;
+		font-size: 14px;
 	}
 	/* Intro Section End */
 		/* Service Section Start */
@@ -40,10 +40,10 @@
 		margin-top: 40px;
 	}
 	.service_content h1 {
-		font-size: 18px;
+		font-size: 20px;
 	}
 	.service_content p {
-		font-size: 12px;
+		font-size: 14px;
 		margin-top: 10px;
 	}
 	.load_btn {
@@ -51,7 +51,7 @@
 		margin-bottom: 60px;
 	}
 	.load_btn button {
-		font-size: 11px;
+		font-size: 14px;
 		padding: 10px 20px;
 		border: 1px solid #626262;
 	}
@@ -61,14 +61,14 @@
 	/* Service Section End */
 	/* Newsletter Start */
 	.newsletter h1 {
-		font-size: 18px;
+		font-size: 20px;
 		margin-top: 30px;
 	}
 	.newsletter_form {
 		margin: 30px auto;
 	}
 	.custom_form {
-	    font-size: 12px;
+	    font-size: 14px;
 	}
 	/* Newsletter End */
 	/* Footer Section Start */
